@@ -207,7 +207,3 @@ Try adjusting the portfolio to either include more risk (a higher stock than bon
 
 * Be well commented with concise, relevant notes that other developers can understand. (10 points)
 
-
----
-
-© 2021 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
